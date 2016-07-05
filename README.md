@@ -7,7 +7,7 @@
 ```
 ### How to use
 
-* for example isset this json object:
+* for example create such json:
 
 ```javascript
 var json = {
