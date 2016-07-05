@@ -27,11 +27,14 @@ var json = {
 * after execute this:
 
 ```javascript
-var json_string = JSON.stringify(json);
-JSON.read(json_string);
+JSON.read(json);
+```
+or
+```javascript
+JSON.read(JSON.stringify(json));
 ```
 
-* return this json object:
+* return this json:
 ```javascript
 var json = {
 	"a": NaN,
