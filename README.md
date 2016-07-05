@@ -7,7 +7,7 @@
 ```
 ### How to use
 
-* for example create such json:
+* for example you have such json:
 
 ```javascript
 var json = {
