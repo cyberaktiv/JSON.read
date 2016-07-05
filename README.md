@@ -50,5 +50,10 @@ var json = {
 	"i": "other string"
 }
 ```
+
 All types of strings values in object become relevant types.
-Supported objects of any nesting.
+Supported objects of any nesting. 
+
+### !Note
+return 'false' if argument of function not object or not string.
+
